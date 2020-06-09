@@ -5,6 +5,7 @@ lodosFrontOfHouse
 ## Attributes
 
 * servers: ["Sarah H.", "Dan A.", "Michelle M."]
+* tableAmount: 25
 * sales: 34.8
 * happyCustomers: true
 
