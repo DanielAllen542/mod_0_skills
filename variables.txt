@@ -1,0 +1,10 @@
+var food = "Poutine"
+var is_delicious = true
+food = "Nachos"
+var num2 = 2
+var num7 = 7
+var quotient = 3.5
+
+var songs = ["Stairway to Heaven", "UGO", "Freak in Me"]
+songs.shift()
+var n = string.length 
